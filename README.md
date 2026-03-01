@@ -3,7 +3,7 @@ Nem toda evolução é visível.
 Algumas começam silenciosas, dentro da mente.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-🎓 Estudante de Técnico em Informatica (IFBAIANO)
+🎓 Estudante de Técnico em Informática - IF Baiano
 
 ---
 ## 🧠 Sobre mim
