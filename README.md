@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Elvis%20Islan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,python,mysql" />
+</p>
 Nem toda evolução é visível.
 Algumas começam silenciosas, dentro da mente.
 
